@@ -38,7 +38,7 @@ const Header = () => {
         </button>
         <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
           <Link to={"/"} className="navbar-brand" id="brand">
-            City<span id="brand2">Kart</span>🛒
+            City<span id="brand2">Mart</span>🛒
           </Link>
           <ul className="navbar-nav ml-auto mb-2 mb-lg-0">
             <SearchInput />
